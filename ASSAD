@@ -1,1 +1,20 @@
+127.0.0.1 localhost
+::1 localhost
+#_______/ MOSAP YT \______
+127.0.0.1 file.igamecj.com
+127.0.0.1 file-igamecj.akamaized.net
 
+napubgm.broker.tplay.qq.com 0.0.0.0
+nawzryhwatm.broker.tplay.qq.com 0.0.0.0
+pandora.game.qq.com 0.0.0.0
+
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0
+0.0.0.0 nawzryhwatm.broker.tplay.qq.com
+0.0.0.0
+0.0.0.0 pandora.game.qq.com
+0.0.0.0
+
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 nawzryhwatm.broker.tplay.qq.com
+0.0.0.0 pandora.game.qq.com
